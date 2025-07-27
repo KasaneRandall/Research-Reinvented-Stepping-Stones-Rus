@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--v1.6\Defs\ThingDefs_Spots.xml-->
+
+<!-- research spot -->
+<RR_ThinkingSpot.label>место для исследований</RR_ThinkingSpot.label>
+<!-- A place to sit down at, and consider the new. -->
+<RR_ThinkingSpot.description>Место, где можно посидеть и подумать о чём-нибудь новом.</RR_ThinkingSpot.description>
+</LanguageData>

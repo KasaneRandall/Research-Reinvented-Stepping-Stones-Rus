@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Research Reinvented: Stepping Stones Rus</name>
+	<author>Kasane Randall</author>  
+	<packageId>KasaneRandall.rus.ResearchReinvented.SteppingStones</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modVersion>1.0</modVersion>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3535945070</url>
+	<modDependencies>
+      <li>
+        <packageId>PeteTimesSix.ResearchReinvented.SteppingStones</packageId>
+        <displayName>Research Reinvented: Stepping Stones</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2868389782</steamWorkshopUrl>
+      </li>
+    </modDependencies>
+	<loadAfter>
+		<li>PeteTimesSix.ResearchReinvented.SteppingStones</li>
+	</loadAfter>
+
+	<description>
+	<![CDATA[<color=#FF004D>Это перевод мода Research Reinvented: Stepping Stones</color>
+
+
+Для корректной работы перевода он должен быть загружен ПОСЛЕ Research Reinvented: Stepping Stones.
+
+Описание Research Reinvented: Stepping Stones:
+
+Перестраивает ванильное дерево исследований таким образом, чтобы оно имело более разумную конфигурацию.]]>
+	</description>
+</ModMetaData>

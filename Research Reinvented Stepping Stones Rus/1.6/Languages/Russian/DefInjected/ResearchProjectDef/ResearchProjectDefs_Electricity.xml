@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--v1.6\Defs\ResearchProjectDefs_Electricity.xml-->
+
+	<!-- electricity -->
+	<RR_ElectricityBasics.label>электричество</RR_ElectricityBasics.label>
+	<!-- Harness the power of electricity. -->
+	<RR_ElectricityBasics.description>Выработка и использование электроэнергии.</RR_ElectricityBasics.description>
+	<!-- About: Electricity -->
+	<RR_ElectricityBasics.discoveredLetterTitle>Подробнее: электричество</RR_ElectricityBasics.discoveredLetterTitle>
+	<!-- Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
+	<RR_ElectricityBasics.discoveredLetterText>Ваше поселение приручило стихию, которую чужеземцы называют «электричеством». С его помощью можно кардинально преобразить жизнь вашей общины.\n\nТеперь вам доступна вкладка «Энергия» меню строительства. В ней вы найдете генераторы, кабели и прочие электрические приспособления. Вкладка «Энергия» также отображает электрическую сеть и подключённые к ней генераторы и другую электрику.</RR_ElectricityBasics.discoveredLetterText>
+	<!--
+		<li>subject->electricity</li>
+
+		<li>subject_story->was struck by lighting and became determined to harness it</li>
+		<li>subject_story->created the first lightbulb on a medieval world</li>
+		<li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
+
+		<li>subject_gerund->harnessing electricity</li>
+	 -->
+	<RR_ElectricityBasics.generalRules.rulesStrings>
+		<li>subject->электричество</li>
+
+		<li>subject_story->он был поражён возможностями электричества и решил использовать его</li>
+		<li>subject_story->создал первую лампу в средневековом мире</li>
+		<li>subject_story->был обвенён в богохульстве и казнён в феодальном мире за создание искусственного света</li>
+
+		<li>subject_gerund->использование электричества</li>
+	</RR_ElectricityBasics.generalRules.rulesStrings>
+
+	<!-- heating elements -->
+	<RR_HeatingElements.label>нагревательные элементы</RR_HeatingElements.label>
+	<!-- Learn how to effectively use the power of electricity to generate heat. -->
+	<RR_HeatingElements.description>Узнайте, как эффективно использовать электричество для выработки тепла.</RR_HeatingElements.description>
+	<!--
+		<li>subject->heaters</li>
+		<li>subject->heating elements</li>
+
+		<li>subject_story->nearly died of frostbite during the winter</li>
+		<li>subject_story->got burned while replacing an old lightbulb</li>
+		<li>subject_story->decided a safer method of heating was needed after causing a forest fire</li>
+
+		<li>subject_gerund->building heaters</li>
+	 -->
+	<RR_HeatingElements.generalRules.rulesStrings>
+		<li>subject->обогреватели</li>
+		<li>subject->нагревательные элементы</li>
+
+		<li>subject_story->почти умер от обморожения зимой</li>
+		<li>subject_story->обжегся, заменяя старую лампочку</li>
+		<li>subject_story->после лесного пожара решил, что необходим более безопасный способ обогрева</li>
+
+		<li>subject_gerund->создание обогревателей</li>
+	</RR_HeatingElements.generalRules.rulesStrings>
+
+	<!-- dynamos -->
+	<RR_PowerGenerators.label>динамо</RR_PowerGenerators.label>
+	<!-- Build electricity generators based on the simple principle of converting motive power into electrical power. -->
+	<RR_PowerGenerators.description>Создавайте электрогенераторы, основанные на простом принципе преобразования движущей силы в электрическую энергию.</RR_PowerGenerators.description>
+	<!--
+		<li>subject->dynamos</li>
+		<li>subject->generators</li>
+
+		<li>subject_story->noticed that motors generated power when spun by hand</li>
+		<li>subject_story->experimented with arrangements of coils and magnets</li>
+		<li>subject_story->understood the relation between magnetism and electricity</li>
+
+		<li>subject_gerund->generating electricity</li>
+		<li>subject_gerund->building generators</li>
+	 -->
+	<RR_PowerGenerators.generalRules.rulesStrings>
+		<li>subject->динамо</li>
+		<li>subject->генераторы</li>
+
+		<li>subject_story->заметил, что двигатели вырабатывают энергию, если их крутить вручную</li>
+		<li>subject_story->экспериментировал с размещением катушек и магнитов</li>
+		<li>subject_story->понял связь между магнетизмом и электричеством</li>
+
+		<li>subject_gerund->производство электроэнергии</li>
+		<li>subject_gerund->постройка генераторов</li>
+	</RR_PowerGenerators.generalRules.rulesStrings>
+
+	<!-- EMP weapons -->
+	<RR_EMP.label>Электромагнитное оружие</RR_EMP.label>
+	<!-- Build weaponry that exploits electromagnetic pulses to stun mechanical enemies. -->
+	<RR_EMP.description>Создавайте оружие, использующее электромагнитные импульсы для оглушения механических врагов.</RR_EMP.description>
+	<!-- 
+		<li>subject->EMPs</li>
+		<li>subject->elecromagnetic pulses</li>
+
+		<li>subject_story->accidentally caused a city block-wide blackout</li>
+		<li>subject_story->experimented with arrangements of coils and magnets</li>
+		<li>subject_story->raided mechanoid hives through clever use of stun grenades</li>
+
+		<li>subject_gerund->generating electrical pulses</li>
+		<li>subject_gerund->producing pulses</li>
+	 -->
+	<RR_EMP.generalRules.rulesStrings>
+		<li>subject->ЭМИ</li>
+		<li>subject->электромагнитныq импульс</li>
+
+		<li>subject_story->случайно обесточил целый городской квартал</li>
+		<li>subject_story->экспериментировал с расположением катушек и магнитов</li>
+		<li>subject_story->совершал набеги на ульи механоидов, умело используя светошумовые гранаты</li>
+
+		<li>subject_gerund->генерирация электрических импульсов</li>
+		<li>subject_gerund->генерирация импульсов</li>
+	</RR_EMP.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--v1.6\Languages\English\Keyed\Settings.xml-->
+
+	<!-- Gate electrical buildings behind electricity -->
+	<RR_SS_setting_doPowerPreregs>Шлюз для питания построек</RR_SS_setting_doPowerPreregs>
+	<!-- Ensures powered buildings require electricity to invent. -->
+	<RR_SS_setting_doPowerPreregs_tooltip>Обеспечивает постройки электроэнергией.</RR_SS_setting_doPowerPreregs_tooltip>
+	
+	<!-- Gate advanced surgery -->
+	<RR_SS_setting_doSurgeryPreregs>Продвинутая хирургия</RR_SS_setting_doSurgeryPreregs>
+	<!-- Ensures installation of advanced artifical bodyparts requires an appropriate understanding of medicine and prosthetics. For example, installing a simple wooden peg leg only requires the most basic understanding of apparel, while installing a bionic leg requires understanding the inner workings of basic prosthetics. -->
+	<RR_SS_setting_doSurgeryPreregs_tooltip>Установка передовых искусственных частей тела требует соответствующего понимания медицины и протезирования. Например, приделывание простого деревянного колышка в качестве ноги требует лишь самых базовых представлений о шитье, в то время как установка бионической ноги требует понимания внутренней работы протезов.</RR_SS_setting_doSurgeryPreregs_tooltip>
+	<!-- Off -->
+	<RR_SS_setting_doSurgeryPreregs_option_Off>Выключить</RR_SS_setting_doSurgeryPreregs_option_Off>
+	<!-- Easy -->
+	<RR_SS_setting_doSurgeryPreregs_option_Easy>Легко</RR_SS_setting_doSurgeryPreregs_option_Easy>
+	<!-- Normal -->
+	<RR_SS_setting_doSurgeryPreregs_option_Normal>Нормально</RR_SS_setting_doSurgeryPreregs_option_Normal>
+	
+	<!-- Disable entirely. -->
+	<RR_SS_setting_doSurgeryPreregs_option_Off_tooltip>Использование ванильных настроек.</RR_SS_setting_doSurgeryPreregs_option_Off_tooltip>
+	<!-- Assign prerequisites from earlier in the tech tree. -->
+	<RR_SS_setting_doSurgeryPreregs_option_Easy_tooltip>Для установки протезов не нужно иметь соответствующие технологии.</RR_SS_setting_doSurgeryPreregs_option_Easy_tooltip>
+	<!-- Assign prerequisites as normal. -->
+	<RR_SS_setting_doSurgeryPreregs_option_Normal_tooltip>Для установки протезов нужно иметь соответствующие технологии.</RR_SS_setting_doSurgeryPreregs_option_Normal_tooltip>
+	
+	<!-- Restarting the game is required for the above to apply. -->
+	<RR_settings_restartWarning>Для применения необходимо перезапустить игру.</RR_settings_restartWarning>
+</LanguageData>

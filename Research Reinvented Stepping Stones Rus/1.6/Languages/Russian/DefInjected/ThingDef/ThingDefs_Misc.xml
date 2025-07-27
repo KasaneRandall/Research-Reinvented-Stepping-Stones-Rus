@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--v1.6\Defs\ThingDefs_Misc.xml-->
+
+    <!-- voltaic pile -->
+    <RR_VoltaicPile.label>Вольтов столб</RR_VoltaicPile.label>
+    <!-- A crude but effective means of generating small amounts of electricity. Nonrechargeable.\n\nWhile the metals and electrolytes used vary between designs, all voltaic piles function by harnessing chemically-induced electrical potential between two electrodes. -->
+    <RR_VoltaicPile.description>Простое, но эффективное средство для получения небольшого количества электроэнергии. Одноразовый.\n\nНесмотря на то, что металлы и электролит, используемые в разных конструкциях, различаются, все вольтовы столбы вырабатывают электроэнергию за счёт использования электрического потенциала, индуцированного химическими веществами, между двумя электродами.</RR_VoltaicPile.description>
+
+    <!-- torch -->
+    <RR_Weapon_Torch.label>факел</RR_Weapon_Torch.label>
+    <!-- Wood from trees or other fibrous plants, wrapped in cloth and soaked in a flammable substance. Can be used as a weapon in a pinch. -->
+    <RR_Weapon_Torch.description>Древесина деревьев или других волокнистых растений, завернутая в ткань и пропитанная легковоспламеняющимся веществом. В крайнем случае можно использовать в качестве оружия.</RR_Weapon_Torch.description>
+</LanguageData>
