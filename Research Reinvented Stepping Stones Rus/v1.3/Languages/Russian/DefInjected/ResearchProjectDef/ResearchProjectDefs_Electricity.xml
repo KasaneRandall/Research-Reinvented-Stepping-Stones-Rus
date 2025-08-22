@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--v1.6\Defs\ResearchProjectDefs_Electricity.xml-->
+
+	<!-- electricity -->
+	<RR_ElectricityBasics.label>электричество</RR_ElectricityBasics.label>
+	<!-- Harness the power of electricity. -->
+	<RR_ElectricityBasics.description>Выработка и использование электроэнергии.</RR_ElectricityBasics.description>
+
+	<!-- heating elements -->
+	<RR_HeatingElements.label>нагревательные элементы</RR_HeatingElements.label>
+	<!-- Learn how to effectively use the power of electricity to generate heat. -->
+	<RR_HeatingElements.description>Узнайте, как эффективно использовать электричество для выработки тепла.</RR_HeatingElements.description>
+
+	<!-- dynamos -->
+	<RR_PowerGenerators.label>динамо</RR_PowerGenerators.label>
+	<!-- Build electricity generators based on the simple principle of converting motive power into electrical power. -->
+	<RR_PowerGenerators.description>Создавайте электрогенераторы, основанные на простом принципе преобразования движущей силы в электрическую энергию.</RR_PowerGenerators.description>
+</LanguageData>

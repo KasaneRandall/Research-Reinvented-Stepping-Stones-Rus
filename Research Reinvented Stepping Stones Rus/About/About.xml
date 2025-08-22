@@ -4,10 +4,13 @@
 	<author>Kasane Randall</author>  
 	<packageId>KasaneRandall.rus.ResearchReinvented.SteppingStones</packageId>
 	<supportedVersions>
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
-	<modVersion>1.0</modVersion>
-	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3535945070</url>
+	<modVersion IgnoreIfNoMatchingField="True">1.1</modVersion>
+	<url>https://github.com/KasaneRandall/Research-Reinvented-Stepping-Stones-Rus</url>
 	<modDependencies>
       <li>
         <packageId>PeteTimesSix.ResearchReinvented.SteppingStones</packageId>
@@ -18,14 +21,14 @@
 	<loadAfter>
 		<li>PeteTimesSix.ResearchReinvented.SteppingStones</li>
 	</loadAfter>
-
+	
 	<description>
-	<![CDATA[<color=#FF004D>Это перевод мода Research Reinvented: Stepping Stones</color>
+	<![CDATA[<color=#ED2939>Это перевод мода Research Reinvented: Stepping Stones</color>
+Если вы используете <color=#66C0F4>Research Reinvented Rus</color>, этот мод вам не нужен. В <color=#66C0F4>Research Reinvented Rus</color> уже встроен перевод дополнения <color=#66C0F4>Research Reinvented: Stepping Stones</color>.
 
+Для корректной работы перевода он должен быть загружен ПОСЛЕ <color=#66C0F4>Research Reinvented: Stepping Stones</color>.
 
-Для корректной работы перевода он должен быть загружен ПОСЛЕ Research Reinvented: Stepping Stones.
-
-Описание Research Reinvented: Stepping Stones:
+Описание <color=#66C0F4>Research Reinvented: Stepping Stones</color>:
 
 Перестраивает ванильное дерево исследований таким образом, чтобы оно имело более разумную конфигурацию.]]>
 	</description>

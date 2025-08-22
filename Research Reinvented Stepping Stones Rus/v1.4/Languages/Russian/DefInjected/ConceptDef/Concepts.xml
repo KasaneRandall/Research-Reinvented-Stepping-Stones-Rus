@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--v1.6\Defs\TutorDefs\Concepts.xml-->
+
+<!-- R.R.: Stepping Stones -->
+<RR_SteppingStones_Intro.label>R.R.: Stepping Stones</RR_SteppingStones_Intro.label>
+<!-- Research Reinvented: Stepping Stones\n\nWelcome to Stepping Stones. Your research tree has been shuffled around to a more reasonable configuration. If you find yourself suddenly unable to do something, its possible that its been locked behind one of the technologies that you have not yet researched. Some of the more significant, broad sweeping changes are optional and can be disabled in the mod settings. -->
+<RR_SteppingStones_Intro.helpText>Research Reinvented: Stepping Stones\n\nДобро пожаловать в «Stepping Stones». Ваше древо исследований было переработано до более разумной конфигурации. Если вы вдруг обнаружите, что не можете что-то сделать, возможно, это что-то заблокировано одной из технологий, которую вы ещё не изучили. Некоторые наиболее существенные и масштабные изменения являются опциональными и могут быть отключены в настройках мода.</RR_SteppingStones_Intro.helpText>
+</LanguageData>

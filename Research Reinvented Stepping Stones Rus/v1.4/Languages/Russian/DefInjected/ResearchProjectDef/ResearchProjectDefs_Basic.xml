@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--v1.6\Defs\ResearchProjectDefs_Basic.xml-->
+
+	<!-- lateral thinking -->
+	<RR_LateralThinking.label>нестандартное мышление</RR_LateralThinking.label>
+	<!-- Consideration and allowances for a more lateral approach.\n(This is a prerequisite to any orphan research tech, including modded ones.) -->
+	<RR_LateralThinking.description>Для решения нестандартных задач — необходим нестандартный подход.\n(Это обязательное условие для любых одиночных технологий, в том числе добавленых модами.)</RR_LateralThinking.description>
+
+	<!-- organization -->
+	<RR_Organization.label>организация</RR_Organization.label>
+	<!-- Fundamentals of organization. -->
+	<RR_Organization.description>Основы организации.</RR_Organization.description>
+
+	<!-- agriculture -->
+	<RR_Agriculture.label>земледелие</RR_Agriculture.label>
+	<!-- Fundamentals of agriculture. -->
+	<RR_Agriculture.description>Основы сельского хозяйства.</RR_Agriculture.description>
+
+	<!-- medicinal herbs -->
+	<RR_BasicHerbLore.label>лекарственные травы</RR_BasicHerbLore.label>
+	<!-- Utilization of basic medicinal herbs. -->
+	<RR_BasicHerbLore.description>Использование базовых лекарственных трав.</RR_BasicHerbLore.description>
+
+	<!-- Fire -->
+	<RR_Fire.label>Огонь</RR_Fire.label>
+	<!-- Intentional creation, maintenance and management of combustion, also known as fire. -->
+	<RR_Fire.description>Создание, поддержание и управление процессом горения, также известным как огонь.</RR_Fire.description>
+
+	<!-- food preparation -->
+	<RR_BasicFoodPrep.label>Кулинария</RR_BasicFoodPrep.label>
+	<!-- Preparation of food. -->
+	<RR_BasicFoodPrep.description>Приготовление пищи.</RR_BasicFoodPrep.description>
+
+	<!-- simple apparel -->
+	<RR_BasicApparel.label>простая одежда</RR_BasicApparel.label>
+	<!-- Crafting of simple apparel. -->
+	<RR_BasicApparel.description>Изготовление простой одежды.</RR_BasicApparel.description>
+
+	<!-- ranged weapons -->
+	<RR_BasicRangedWeapons.label>дальнобойное оружие</RR_BasicRangedWeapons.label>
+	<!-- Crafting of simple ranged weapons. -->
+	<RR_BasicRangedWeapons.description>Изготовление простого оружия дальнего боя.</RR_BasicRangedWeapons.description>
+
+	<!-- melee weapons -->
+	<RR_BasicMeleeWeapons.label>оружие ближнего боя</RR_BasicMeleeWeapons.label>
+	<!-- Crafting of simple melee weapons. -->
+	<RR_BasicMeleeWeapons.description>Изготовление простого оружия ближнего боя.</RR_BasicMeleeWeapons.description>
+
+	<!-- crafting facilities -->
+	<RR_BasicCraftingFacilities.label>ремесленное оборудование</RR_BasicCraftingFacilities.label>
+	<!-- Basic crafting facilities. -->
+	<RR_BasicCraftingFacilities.description>Базовые приспособления для ремесла.</RR_BasicCraftingFacilities.description>
+
+	<!-- structures -->
+	<RR_BasicStructures.label>постройки</RR_BasicStructures.label>
+	<!-- Stable, solid foundations and reliable walls. -->
+	<RR_BasicStructures.description>Надёжный, прочный фундамент и надёжные стены.</RR_BasicStructures.description>
+
+	<!-- simple furniture -->
+	<RR_BasicFurniture.label>простая мебель</RR_BasicFurniture.label>
+	<!-- Simple, but reliable furniture. -->
+	<RR_BasicFurniture.description>Простая, но надёжная мебель.</RR_BasicFurniture.description>
+
+	<!-- trapping -->
+	<RR_Trapping.label>ловушки</RR_Trapping.label>
+	<!-- Construction of simplistic traps for the purposes of hunting or defense. -->
+	<RR_Trapping.description>Строительство простейших ловушек для охоты или обороны.</RR_Trapping.description>
+</LanguageData>
